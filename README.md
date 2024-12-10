@@ -46,8 +46,8 @@ Please enter the source folder path in Teams: "C:\Users\SagarGupta\Teams Channel
 Please enter the folder path of your downloads folder: "C:\Users\SagarGupta\Downloads"
 Please enter the folder name: All_performance_decks
 Destination folder created at: C:\Users\SagarGupta\Downloads\All_performance_decks
-Copied C:\Users\SagarGupta\Teams Channel name\folder name\File1.txt to C:\Users\SagarGupta\Downloads\All_performance_decks\File1.txt
-Copied C:\Users\SagarGupta\Teams Channel name\folder name\Folder1\File2.txt to C:\Users\SagarGupta\Downloads\All_performance_decks\Folder1\File2.txt
+Copied C:\Users\SagarGupta\Teams Channel name\folder name\File1.pptx to C:\Users\SagarGupta\Downloads\All_performance_decks\File1.pptx
+Copied C:\Users\SagarGupta\Teams Channel name\folder name\Folder1\File2.pptx to C:\Users\SagarGupta\Downloads\All_performance_decks\Folder1\File2.pptx
 ...
 Copy completed. All files are in 'C:\Users\SagarGupta\Downloads\All_performance_decks'.
 Verified: Destination folder exists at C:\Users\SagarGupta\Downloads\All_performance_decks.
